@@ -1,0 +1,4 @@
+*.o
+ex00/megaphone
+ex01/my_phonebook
+ex02/account_tests
